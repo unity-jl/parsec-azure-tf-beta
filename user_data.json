@@ -1,0 +1,28 @@
+{
+	"data":	[
+		{
+			"setting": "team_id",
+			"value": ""
+		},
+		{
+			"setting": "team_computer_key",
+			"value": ""
+		},
+		{
+			"setting": "guest_access",
+			"value": ""
+		},
+		{
+			"setting": "user_email",
+			"value": ""
+		},
+		{
+			"setting": "team_group_id",
+			"value": ""
+		},
+		{
+			"setting": "team_app_rule_id",
+			"value": ""
+		}
+	]
+}
